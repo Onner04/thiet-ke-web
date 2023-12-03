@@ -1,0 +1,22 @@
+.header{
+    width: 60%;
+    padding: 12px 305px
+    ;
+}
+.header-content{
+    color: rgb(65, 231, 231);
+}
+.header__content{
+    font-weight: 600;
+    font-size: 14px;
+}
+.heading{
+    background-color: rgb(65, 231, 231) ;
+    color: #fff;
+}
+.heading-img{
+    padding: 25px 245px;
+}
+.heading__content{
+    color:  rgb(65, 231, 231);
+}
